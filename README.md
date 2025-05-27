@@ -49,32 +49,28 @@ This professional certificate provided me with practical knowledge and tools use
 
 Notes are written in Markdown and organized by module and lesson for easy navigation:
 
-📁 module-1/\
-└── 📄 lesson-1.md\
-└── 📄 lesson-2.md
+📁 module-1/  
+└── 📄 lesson-1.md  
+└── 📄 lesson-2.md  
 
-📁 module-2/\
-└── 📄 lesson-1.md\
-└── 📄 lesson-2.md
+📁 module-2/  
+└── 📄 lesson-1.md  
+└── 📄 lesson-2.md  
 
-📁 module-3/\
-└── 📄 lesson-1.md\
-└── 📄 lesson-2.md
+📁 module-3/  
+└── 📄 lesson-1.md  
+└── 📄 lesson-2.md  
 
-📁 module-4/\
-└── 📄 lesson-1.md\
-└── 📄 lesson-2.md
+📁 module-4/  
+└── 📄 lesson-1.md  
+└── 📄 lesson-2.md  
 
 ---
 
 ## 📌 Certification Info
 
-- **Course**: [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- **Course**: <a href="https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank">Google Data Analytics Certificate</a>  
 - **Provider**: Coursera / Google  
 - **Status**: In progress / Completed  
 - **Language**: English  
 - **Approach**: Self-paced, project-based  
-
----
-
-> 💼 I’m open to new opportunities in the data field. This project reflects my dedication to structured learning, hands-on practice, and professional growth through continuous education.
