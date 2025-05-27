@@ -83,6 +83,6 @@ Notes are written in Markdown and organized by module and lesson for easy naviga
 
 - **Course**: <a href="https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank">Google Data Analytics Certificate</a>  
 - **Provider**: Coursera / Google  
-- **Status**: In progress / Completed  
+- **Status**: In progress  
 - **Language**: English  
 - **Approach**: Self-paced, project-based  
