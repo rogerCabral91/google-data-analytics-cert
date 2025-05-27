@@ -6,6 +6,18 @@ The course is designed to prepare beginners for entry-level roles in data analyt
 
 ---
 
+## 📚 Table of Contents
+
+- [Google Data Analytics Professional Certificate](#google-data-analytics-professional-certificate)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [📘 Course Overview](#-course-overview)
+  - [🎯 What I Learned](#-what-i-learned)
+  - [🛠️ Skills I Acquired Through the Course](#️-skills-i-acquired-through-the-course)
+  - [🗂️ Repository Structure](#️-repository-structure)
+  - [📌 Certification Info](#-certification-info)
+
+---
+
 ## 📘 Course Overview
 
 This professional certificate provided me with practical knowledge and tools used by junior or associate data analysts in real-world settings. The curriculum includes exercises, case studies, and projects that simulate actual business challenges, helping me build a strong foundation in the data analysis process.
