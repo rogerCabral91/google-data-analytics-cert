@@ -64,6 +64,9 @@ Notes are written in Markdown and organized by module and lesson for easy naviga
 📁 module-1/  
 └── 📄 lesson-1.md  
 └── 📄 lesson-2.md  
+└── 📄 lesson-3.md  
+└── 📄 lesson-4.md  
+└── 📄 lesson-5.md  
 
 📁 module-2/  
 └── 📄 lesson-1.md  
